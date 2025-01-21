@@ -6,7 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # valkey
-valkey/valkey:8.0.1
+# valkey/valkey:8.0.1
 
 # mongodb
-mongodb/mongodb-community-server:8.0.4-ubuntu2204
+mongodb/mongodb-community-server:8.0.4-ubuntu2204 --platform=linux/arm64
