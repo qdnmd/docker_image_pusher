@@ -7,3 +7,6 @@
 
 # valkey
 valkey/valkey:8.0.1
+
+# mongodb
+mongodb/mongodb-community-server:8.0.4-ubuntu2204
