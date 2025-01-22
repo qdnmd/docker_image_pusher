@@ -10,3 +10,6 @@
 
 # mongodb
 --platform=linux/arm64 mongodb/mongodb-community-server:8.0.4-ubuntu2204
+
+# ES
+--platform=linux/arm64 elasticsearch:8.17.1
